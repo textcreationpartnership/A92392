@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarkable observations on the comet, in the year 1680 as also on the blazing-star, now seen, this present month of August, 1682.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92392</idno><idno type="EEBO-CITATION">42476316</idno>
+  <idno type="VID">151305</idno>
+  <idno type="EEBO-PROQUEST">2240878719</idno>
+  
+            <idno type="STC">Wing R918</idno>
+            <idno type="STC">ESTC R43909</idno>
+            <idno type="OCLC">42476316</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2254:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarkable observations on the comet, in the year 1680 as also on the blazing-star, now seen, this present month of August, 1682.</title>
+                  <author>Holwell, John, 1649-1686?</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Probably by John Holwell. In the final paragraph, the author refers to "a small piece ... which I intend to intitle Catastrophe mundi," a work by Holwell also published 1682.</note>
+                  <note>Imprint date from Wing.</note>
+                  <note>"With Authoritie."</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Comets --  1680.</term>
+               <term type="topical_term">Comets --  1682.</term>
+               <term type="geographic_name">Europe --  History --  Prophecies.</term>
+               <term type="geographic_name">Halley's comet --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151305:1"/>
+            <head>Remarkable OBSERVATIONS On the <hi>COMET,</hi> in the Year 1680.</head>
+            <head type="sub">As also on the <hi>Blazing-Star,</hi> now seen, this present Month of <hi>August,</hi> 1682.</head>
+            <p>I Shall not trouble my <hi>Self,</hi> nor <hi>Reader,</hi> with the many Opinions of the Ancients, concerning the Matter and Generation of <hi>Comets,</hi> but let him understand, that on <hi>Monday</hi> Night last, being <hi>August</hi> 14. there was a <hi>Comet</hi> seen about Nine a Clock at Night, about North and by West from <hi>London:</hi> Its Head was very large, much about the bigness of <hi>Venus</hi> in her Elongation. When it came to the North part of the Meri<g ref="char:EOLhyphen"/>dian, it had not above 18 degrees of Altitude. As to its Place, it was not far from the Right Paw of the <hi>Great Bear;</hi> and for its Longitude in the Ecliptick, it was near 25 degrees in <hi>Cancer,</hi> having of or near 30 degrees of North Latitude, by which means it will not Set. It hath also been seen on <hi>Tuesday</hi> Night, and <hi>Wednesday</hi> Night, by a great many; it hath also been seen on <hi>Saturday</hi> Night, <hi>Sunday</hi> Night, and <hi>Monday</hi> Night; at which time it hath got into the middle of <hi>Virgo,</hi> as near as I could judg by my Eye, for <hi>I</hi> had not Instruments about me to observe it; it is swift in Motion, and direct, and decreases in Declination; and its Tail points to the South-East, but is not above ten degrees in length. The <hi>Comet</hi> is increasing, and therefore may be seen, if the Weather prove fair, all Night long, by reason of its not setting. I advise all those that have conveni<g ref="char:EOLhyphen"/>ent Instruments, to make good Observation of it, for I believe it hath but small Parallex.</p>
+            <p>As to the Astrological Judgment of it, we must consider its Place and Colour; Its being in <hi>Cancer,</hi> doth declare <hi>Wars</hi> and <hi>Devastations</hi> in the World, with abundance of Unhappiness towards Mankind, and more than Common Evils to befal them; either the Heir of some Kingdom, or Chief Governor thereof, shall resign to Death. It also doth declare great Inundation to befal those Places under <hi>Cancer:</hi> As for example, in the Year 1530, there was a <hi>Comet</hi> appeared in <hi>Cancer;</hi> in that Year, in the <hi>Low-Countries,</hi> there were no less than 404 Parishes drowned, with all their People and Cattle; also the <hi>Turks</hi> invaded <hi>Hungary.</hi> Therefore let <hi>Holland</hi> look to it, and secure their Banks against the strong South-West Winds, of which we shall have plenty the beginning of this Winter, and those very boisterous. This <hi>Comet</hi> comes to bring forward the Effect of the last, that did appear in the Year 1680. That <hi>Comet</hi> came for a Warning to <hi>Europe</hi> in general. Let those Countries which lie East, and South-East of <hi>England,</hi> beware, especially the East part of <hi>Germany,</hi> for they are threatned with a very great Invasion, and that from a mixt sort of People, <hi>(viz.) Turks</hi> and <hi>Christians,</hi> which shall over-run most part of <hi>Germany.</hi> Then Wo to all those of the <hi>Shaven</hi>-Order.</p>
+            <pb n="2" facs="tcp:151305:2"/>
+            <p>
+               <hi>France,</hi> Thou art like to feel the smart of War; thou hast caused thy Neighbouring Nations to feel thy heavy Hand for these ten Years last past; Now thy Time is almost at an end, and God has ordained thy King<g ref="char:EOLhyphen"/>dom to be a Prey to a Forreign People, as afore-said.</p>
+            <p>
+               <hi>Holland,</hi> look to thy self, God is angry with thee; thou must suffer by another Inundation. Besides, I fear some other Calamity to befal thee, thou must have thy Laws changed.</p>
+            <p>I pray God bless <hi>Scotland</hi> from Calamity, I fear there will come Bad News from thence in a short Time; but in what Nature let Time declare.</p>
+            <p>The Land of <hi>Aries</hi> cannot be free from the Influence, both of this <hi>Comet,</hi> and the Last, neither of them as yet begin to operate. I pray God bless the City <hi>Gemini</hi> from another great Plague, which I fear will afflict it in the Year 1683. In which Year 'tis thought, the <hi>Mole</hi> will fall in the Coffin, ond the young <hi>Mole,</hi> and the old <hi>Lion,</hi> will contend for a Crown; but after two Battels, there will come a sort of People out of the Wood, and will pull a dead Man out of his Grave, which shall Head these People that came out of the Wood, and they, with the dead Man, shall end the Strife between the <hi>Mole</hi> and the <hi>Lion;</hi> and then there will be long Peace in the Land of <hi>Aries,</hi> and neither the <hi>Mole</hi> nor the <hi>Lion</hi> shall ever attain the Crown; they shall fight for it, but shall both die in the Action.</p>
+            <p>
+               <hi>Spain,</hi> great hath been thy Cruelty to the poor <hi>Indians</hi> in <hi>America;</hi> God will pour down his Vials of Wrath upon thee, and thou shalt be<g ref="char:EOLhyphen"/>come a Prey to a great many Nations, and e're 1699, thou shalt be driven out of all the <hi>West-Indies,</hi> and thy People shall become very poor.</p>
+            <p>
+               <hi>Italy,</hi> when I consider what Evils shall befal thee, it makes me to weep; for the Plague shall destroy a great many of thy People: But that's not all, for the <hi>Turk</hi> shall come even to the Gates of <hi>Rome,</hi> and shall destroy thy Country with Fire and Sword, and that before 1699.</p>
+            <p>Neither will that famous City of <hi>Venice</hi> escape the Hands of the <hi>Turks,</hi> but shall by them be laid waste, to the Grief of all Christendom.</p>
+            <p>
+               <hi>Rome</hi> must have a Time of destruction by Fire as well as <hi>London,</hi> but will never come to be so well rebuilded; for the <hi>Triple Crown must fall</hi> in or near the Year 1699, and soon after shall the World have a general Peace, and the <hi>Turk</hi> turn <hi>Christian.</hi>
+            </p>
+            <p>Many things more might be said from both these last <hi>Comets;</hi> but by reason I have not a Warrant to write them, I shall forbear, but shall give you such Rules, in a small piece, (almost ready for the Press, and will shortly be made publick) which I intend to intitle, <hi>Catastrophae Mundi;</hi> wherein shall be shewed, how to judg of the Conjunction of <hi>Saturn</hi> and <hi>Jupiter,</hi> and other <hi>Comets;</hi> the like as yet hath not been made publick to the World.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Smith.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
